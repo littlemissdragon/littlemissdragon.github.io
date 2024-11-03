@@ -1,8 +1,8 @@
 ---
-layout: post
-title: "Introduction to the International Diversification Service"
-date: 2024-10-20
-include_mathjax: false
+layout: article
+title: Introduction to the International Diversification Service
+custom_css: article.css
+include_mathjax: true
 ---
 ## What is international diversification ##
 
@@ -41,4 +41,14 @@ When considering international diversification and selecting countries to invest
 
 ## References ##
 
-+ 
++ https://smartasset.com/investing/benefits-of-international-diversification
+
++ https://www.morningstar.com/portfolios/does-case-investing-internationally-add-up
+
++ https://www.globalmastersfund.com.au/articles/global-asset-management/
+
++ https://www.fe.training/free-resources/portfolio-management/international-diversification/
+
++ https://www.bcg.com/publications/2023/the-tide-has-changed-for-asset-managers
+
++ https://www.investopedia.com/articles/basics/11/biggest-risks-international-investing.asp

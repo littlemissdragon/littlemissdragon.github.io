@@ -1,10 +1,9 @@
 ---
-layout: post
-title: "How to Open a Bank Account in Sigapore for Foreigners"
-date: 2024-10-20
-include_mathjax: false
+layout: article
+title: How to Open a Bank Account in Sigapore for Foreigners
+custom_css: article.css
+include_mathjax: true
 ---
-
 ## Introduction ##
 
 In this article, we will introduce Singapore as an option for international diversification. To restate the main goal of our international diversification service: 
