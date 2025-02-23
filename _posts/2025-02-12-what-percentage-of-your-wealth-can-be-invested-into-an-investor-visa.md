@@ -83,15 +83,22 @@ Note: Once you have lived in the foreign country longer than T years and you are
     
 
 
-Now let's continue to use Ecuador as an example to visualize section 2.  
+Now let's continue to use Ecuador as an example to visualize section 2. The data used in the calculation are the same with the example in section 1:
+
++ $W = 62,000$ USD
++ $C_{domestic} = 1164.4$ USD
++ $C_{foreign} = 532.2$ USD
++ $I = 0.065$
++ Required investment for an investor visa: $40,000$ USD
++ Required time in the CD: $2$ years
 
 From Figure 2, we can see that:
 
-+ At any percentage between 0 to 1, $\Delta{N}$ is positive due to the lower cost of living. However, considering the 2-year policy to acquire an investor visa, the maximum $p = 0.91$, and the corresponding $\Delta{N} = 77$
-
 + The orange line indicates that, for the actual required investment ($40,000$ USD), $\Delta{N} = 91.6$, which means given the current wealth you will be able to live in Ecuador for ~$12$ years, but ~$4.4$ years in America.
   
-+ The orange line is very close to the pink line, which is the p value that gives you the maximum $\Delta{N}=91.7$ months. 
++ The orange line is very close to the pink line, which is the p value that gives you the maximum $\Delta{N}=91.7$ months.
+
++ At any percentage between 0 to 1, $\Delta{N}$ is positive due to the lower cost of living. However, as we have calculated in section 1, to fulfill the 2-year policy to acquire an investor visa, $p$ has to be equal to or lower than $0.91$. This means, if, for some reason, you want to invest as much as possible into the CD while acquiring an investor visa, the maximum percentage is 91%. Thus you will get 77 additional months from the total wealth in Ecuador than in America. This is significantly lower than the red line, so if your goal is to maximize $\Delta{N}$, it is not advisable to invest more than $40,000$ USD in the CD.
 
 
 Here you might wonder, what if we only withdraw part of the principal and keep the rest in CD to generate interest? Yes, you can definitely do that, which will offer you even higher $N_{foreign}$, but we'll save that calculation for another article. 
