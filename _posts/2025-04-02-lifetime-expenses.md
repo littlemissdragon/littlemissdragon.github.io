@@ -38,7 +38,7 @@ The three stages will be calculated separately:
 **Childhood and early adulthood (0-23)**: 
 
 $$
-E_{childhood} =  \sum_{i=1}^{23} (C_{cl} + C_{chin}) (1 + f)^23 + C_{education}
+E_{childhood} =  \sum_{i=1}^{23} (C_{cl} + C_{chin}) (1 + f)^{i-1} + C_{education}
 $$
     
 Where:
@@ -53,7 +53,7 @@ Where:
 
 
 $$
-E_{adulthood} = \sum_{i=24}^{60} (C_{al} + C_{arent} + C_{atr} + C_{ahin} + C_{arin}) (1+f)^{36} 
+E_{adulthood} = \sum_{i=24}^{60} (C_{al} + C_{arent} + C_{atr} + C_{ahin} + C_{arin}) (1+f)^{i-24} 
 $$
 
 Where:
@@ -79,7 +79,7 @@ $$
 **Retirement (61-78)**: 
 
 $$
-E_{retirement} = \sum_{i=61}^{78} (C_{rl} + C_{rrent} + C_{rtr} + C_{rhin} + C_{rrin} ) (1+r)^{17}
+E_{retirement} = \sum_{i=61}^{78} (C_{rl} + C_{rrent} + C_{rtr} + C_{rhin} + C_{rrin} ) (1+r)^{i-61}
 $$
 
 Where:
@@ -180,7 +180,7 @@ In reality, on top of the simplified calculation above, many people are not sati
 **Adulthood (24-60)**: 
 
 $$
-E_{adulthood} = \sum_{i=24}^{60} (C_{al} + C_{insurances}) (1+f)^{i-23} + C_{house} + C_{cars}
+E_{adulthood} = \sum_{i=24}^{60} (C_{al} + C_{insurances}) (1+f)^{i-24} + C_{house} + C_{cars}
 $$
 
 Where:
@@ -193,7 +193,7 @@ Where:
 **Retirement (61-78)**: 
 
 $$
-E_{retirement} = \sum_{i=61}^{78} (C_{rl} + C_{insurances}) (1+r)^{i-60}
+E_{retirement} = \sum_{i=61}^{78} (C_{rl} + C_{insurances}) (1+r)^{i-61}
 $$
 
 Where:
