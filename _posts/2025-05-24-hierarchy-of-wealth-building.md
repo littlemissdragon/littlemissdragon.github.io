@@ -46,7 +46,7 @@ In this article, we want to define:
 
 ## Structure of the Hierarchy of Wealth Building  ##
 
-This structure can be visually represented as a chain (Diogenes Analytics, 2025), where each node is a level $L_i$, branching out as options accumulated and a threshold to advance to the next level:
+This structure can be visually represented as a chain, where each node is a level $L_i$, branching out as options accumulated and a threshold to advance to the next level:
 
 ```
 L0 (S0) 
@@ -72,7 +72,7 @@ At each level, the union of all sets $S_i$ for $i \le k$ defines the total avail
 
 ## Implications ##
 
-A **hierarchy** $\mathcal{H}$ of wealth building can be defined as an ordered sequence of discrete levels (Diogenes Analytics, 2025):
+A **hierarchy** $\mathcal{H}$ of wealth building can be defined as an ordered sequence of discrete levels:
 
 $$
 \mathcal{H} = \langle L_0, L_1, \dots, L_n \rangle
@@ -101,7 +101,7 @@ $$
 L_i \mapsto S_{i} \subseteq \mathcal{G}
 $$
 
-At any level $L_k$, the total accessible option set $\mathcal{O}_k$ is the **cumulative union** of all option sets up to and including that level (Diogenes Analytics, 2025):
+At any level $L_k$, the total accessible option set $\mathcal{O}_k$ is the **cumulative union** of all option sets up to and including that level:
 
 $$
 \mathcal{O}_{k} = \bigcup_{i=0}^{k} S_{i}
@@ -442,7 +442,3 @@ Ln (Sn)
 The hierarchy of wealth building shows a path from earning salary to financial freedom and then to high-scale proactive profit. It is also a path from being a worker, who sells his labor and time to cover life expenses, to someone, who proactively acquires more wealth through his army of wealth. 
 
 Moving forward, the work done in this article also provides a framework for developing actual investing options and strategies to progress on the hierarchy.
-
-## References ##
-
-+ Diogenes Analytics, 2025, *https://diogenesanalytics.com/blog/2025/05/28/hierarchies-defined*
