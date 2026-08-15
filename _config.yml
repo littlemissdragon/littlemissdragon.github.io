@@ -1,0 +1,20 @@
+markdown: kramdown
+permalink: /blog/:year/:month/:day/:title
+pages_dir: /pages
+high_res_image: "/assets/images/diogenes_art.q75.webp"
+low_res_image: "/assets/images/diogenes_art.q0.webp"
+default_image: "/assets/images/diogenes_art.q75.webp"
+url: "https://yourwebsite.com"
+contacts:
+  business: "/business-contact/"
+  personal: "/personal-contact/"
+social:
+  x-twitter: "https://twitter.com/yourprofile"
+  instagram: "https://instagram.com/yourprofile"
+  youtube: "https://youtube.com/yourprofile"
+exclude:
+  - CNAME
+  - Dockerfile
+  - Makefile
+  - README.md
+  - tests
