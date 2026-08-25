@@ -79,15 +79,8 @@ Currency volatility should be considered if the capital is invested into Singapo
 As shown in Figure 8, the average volatility of Singapore dollars is lower than US dollars (4.13% vs. 7.72%), however the standard deviations of both currencies are 1.80% and 2.30%, respectively. This indicates that the volatility of Singapore dollars is lower but the fluctuation is higher on average than US dollars.
 
 
-
-
-    '\ndf2[\'US_Date\'] = pd.to_datetime(df2[\'US_Date\'], format=\'%m/%d/%y\')\n\ndf2 = volatilities[:]\nx = df2[\'SGP_Date\'] \ny = df2[\'SGP_Dollar_Volatility\'] * 100\nj = (df2[\'US_Date\']).astype(str)\nk = df2[\'USD_Volatility\'] * 100\n\n\n\n# set the style to a dark theme\nplt.style.use("dark_background")\n\n# match website background\nplt.rcParams["figure.facecolor"] = "#181818"\nplt.rcParams["axes.facecolor"] = "#181818"\nplt.rcParams["axes.edgecolor"] = "#181818"\n\nfig, (ax1, ax2) = plt.subplots(1, 2, figsize=(8, 6))\n\n#plt.scatter(x, y, marker=\'-\', label=\'Singapore Dollar\')\nax1.plot(x, y, label=\'Singapore Dollar\')\nax2.plot(x, k, label=\'US Dollar\', color=\'r\')\n\n\n# set decimal points for x axis\nax1.xaxis.set_major_locator(plt.MaxNLocator(7))\nax2.xaxis.set_major_locator(plt.MaxNLocator(7))\n\n# set axis labels\nax1.set_ylabel("Volatility %")\nax2.set_ylabel("Volatility %")\n\n# set legend\nax1.legend()\nax2.legend()\n\n# add watermark\nadd_watermark(ax2, 1, 1)\n\n\nplt.xticks(rotation=0, fontsize=10)\nplt.yticks(fontsize=10)\nplt.xlabel(\'Date\', fontsize=11)\n#plt.xlim([0, 13700])\n# set title\nplt.suptitle(\n    f"Figure {fig_count}. 1990-2024 Currency Volatility", y=-0.01, fontsize=10\n)\nfig_count += 1\nplt.legend()\nplt.show()\n'
-
-
-
-
     
-![png](/assets/images/2024-10-20-how-to-open-an-bank-account-in-sigapore-for-foreigners_files/2024-10-20-how-to-open-an-bank-account-in-sigapore-for-foreigners_14_0.png)
+![png](/assets/images/2024-10-20-how-to-open-an-bank-account-in-sigapore-for-foreigners_files/2024-10-20-how-to-open-an-bank-account-in-sigapore-for-foreigners_13_0.png)
     
 
 
@@ -110,7 +103,7 @@ Figure 9 shows the percentile ranks of each indicator of Singapore and the US. F
 
 
     
-![png](/assets/images/2024-10-20-how-to-open-an-bank-account-in-sigapore-for-foreigners_files/2024-10-20-how-to-open-an-bank-account-in-sigapore-for-foreigners_17_0.png)
+![png](/assets/images/2024-10-20-how-to-open-an-bank-account-in-sigapore-for-foreigners_files/2024-10-20-how-to-open-an-bank-account-in-sigapore-for-foreigners_16_0.png)
     
 
 
