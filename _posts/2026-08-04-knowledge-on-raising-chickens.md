@@ -125,6 +125,103 @@ Hens slow or pause laying in cold short-day winter conditions, and rooster ferti
 3.4 Separate sick/old birds
     Cull very old hens (over 3 years old): Their egg fertility and hatch rates decline drastically. Keep only young, healthy 1–2 year old hens as your primary breeding stock.
 
+## 4. Vaccionations, Deworming and Treatments ##
+
+Backyard poultry in China rarely have mandatory vaccines; most are optional. Deworming (internal parasites) + external parasite control (mites, lice) are far more routine for home flocks.
+
+**Rule for breeding birds: If you treat breeding hens/roosters, respect withdrawal period. Eggs cannot be saved for hatching or human consumption during & right after medication.**
+
+1. Vaccination list (optional, priority ranking)
+
+    For small backyard flock, **not all vaccines are necessary**. Risk depends on whether you bring in new birds from outside. If you only hatch your own chicks and never buy adult chickens, disease risk drops greatly.
+
+2. Deworming schedule (internal worms: roundworm, hairworm, tapeworm)
+
+Two strategies:
+
++ Scheduled preventative deworming (common backyard)
++ Only‑when‑needed: do faecal egg count first (better for breeding, avoids unnecessary drugs)
+
+Timetable
+
+- Chicks (0‑8 weeks): Usually NO routine deworming. Only treat if you see thinness, pale combs, worms in droppings.
+- Juveniles (3‑4 months old): First deworm.
+- Adults: Twice per year
+  - First: **early spring**, before breeding / fertile‑egg season starts *critical for hatching eggs*
+  - Second: **late autumn**, before winter.
+
+> 
+> ❗ Never deworm right when you are collecting eggs for incubation!
+> **Withdrawal period rule**: After deworming medication:
+> ‑ Eating eggs: discard eggs for stated withdrawal time (usually 7‑14 days, read product label).
+> ‑ Hatching eggs: discard all eggs for **minimum 21 days** post‑treatment. Drugs can pass into embryo and kill chicks.
+
+Common active ingredients for chickens (check label):
+‑ Fenbendazole (safe, widely used for roundworms, hairworms)
+‑ Pyrantel pamoate
+‑ Praziquantel (add if tapeworm pressure is high)
+
+*Avoid ivermectin overdose; carefully calculate weight‑based dose.*
+
+**Signs worms are present**
+
+Pale comb, weight loss even with good feed, poor egg output, worms visible in manure, diarrhoea.
+
+3. External parasites: Lice & Mites (extremely important for winter)
+
+Mites hide in coop cracks, NOT always on birds. Winter indoors / insulated coops are ideal for mite multiplication.
+
+Schedule:
+
+- Every autumn (before winter lock‑in): full coop sanitation + bird treatment.
+- Every spring: repeat.
+- Spot‑check monthly all winter: look at skin under wings, near vent.
+
+Treatment options:
+
+- Permethrin poultry dust / spray (for birds)
+- Coop: empty all bedding; scrub all cracks; heat / spray coop structure. (Note: Deep litter system does **not** kill mites. It can hide them.)
+
+
+4. Full‑Lifetime Calendar Summary (closed‑cycle breeding flock) 
+
+    + Day‑old chicks
+    Marek vaccine (done at hatchery).
+    No deworming.
+    Clean brooder, prevent mites.
+    + **2‑14 days** (if outside‑disease risk present)
+    Gumboro / Newcastle+IB via drinking‑water vaccine.
+    + **3‑4 months (juvenile)**
+    First internal deworm.
+    Check for lice‑mites.
+    + **Adult yearly routine (all hens + rooster)**
+        + Spring (before breeding season):
+            ‑ Check faecal samples optional
+            ‑ Deworm internal
+            ‑ Treat birds + coop against lice/mites
+            ‑ *Wait out egg‑withdrawal time before saving fertile eggs for incubation*
+            
+        + Autumn (before winter):
+            ‑ Second internal deworm
+            ‑ Full coop parasite clean‑up
+            ‑ No vaccines unless risk high.
+        
+    + **New birds rule (golden rule)**
+    Any new chicken you bring from outside → mandatory **30‑day quarantine**, deworm + parasite treat during quarantine. Never mix straight into main flock. This is your #1 disease prevention.
+
+
+5. Things you DO NOT need to routinely give
+
+    - No monthly pills. Over‑medicating damages gut flora, lowers hatch rates.
+    - No “prophylactic antibiotics” in feed. Antibiotics only for confirmed bacterial sickness, not prevention. Continuous antibiotic use ruins fertility.
+
+6. Extra biosecurity tips (often better than medicine)
+
+    + Keep wild birds away from feed and coop; wild birds bring worms and viruses.
+    + Remove mouldy feed immediately (mycotoxins hurt reproduction more than most parasites).
+    + Rotate litter, keep bedding dry; ammonia stress weakens immunity.
+    + If you want maximum safety for hatching eggs: do faecal egg counts first instead of blindly deworming twice‑a‑year. Only treat when eggs show worm‑parasite.
+
 ## 4. How to Collect & Store Fertile Eggs Before Hatching ##
 
 If you want to save eggs laid in late fall/winter to hatch early next spring, proper storage preserves embryo viability:
